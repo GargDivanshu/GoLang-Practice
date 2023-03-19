@@ -1,0 +1,12 @@
+{
+	"Name": "gethry",
+	"Age": 20,
+	"Description": "A user",
+	"Contact": "98989898",
+	"Address": {
+		"City": "Something",
+		"State": "New Delhi",
+		"Country": "India",
+		"Pincode": 110085
+	}
+}

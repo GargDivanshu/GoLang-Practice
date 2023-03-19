@@ -1,0 +1,12 @@
+{
+	"Name": "regg",
+	"Age": 20,
+	"Description": "A user",
+	"Contact": "98989898",
+	"Address": {
+		"City": "IDK",
+		"State": "New Delhi",
+		"Country": "India",
+		"Pincode": 110085
+	}
+}
